@@ -1,0 +1,32 @@
+/home/plabini/Documents/iot-device-sdk-embedded-c/obj/linux/bsp/crypto/mbedtls/iotc_bsp_crypto_mbedtls.o: \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/bsp/crypto/mbedtls/iotc_bsp_crypto_mbedtls.c \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/bsp/iotc_bsp_crypto.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/iotc_types.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/iotc_error.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/iotc_mqtt.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/bsp/iotc_bsp_mem.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/iotc_debug.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/bsp/iotc_bsp_time.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/iotc_time.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/iotc_config.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/iotc_data_desc.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/datastructures/iotc_memory_type.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/iotc_macros.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/memory/iotc_allocator.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/iotc_config.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/debug_extensions/memory_limiter/iotc_memory_limiter.h \
+ third_party/tls/mbedtls/include/mbedtls/base64.h \
+ third_party/tls/mbedtls/include/mbedtls/sha256.h \
+ third_party/tls/mbedtls/include/mbedtls/config.h \
+ third_party/tls/mbedtls/include/mbedtls/check_config.h \
+ third_party/tls/mbedtls/include/mbedtls/ctr_drbg.h \
+ third_party/tls/mbedtls/include/mbedtls/aes.h \
+ third_party/tls/mbedtls/include/mbedtls/ecdsa.h \
+ third_party/tls/mbedtls/include/mbedtls/ecp.h \
+ third_party/tls/mbedtls/include/mbedtls/bignum.h \
+ third_party/tls/mbedtls/include/mbedtls/md.h \
+ third_party/tls/mbedtls/include/mbedtls/entropy.h \
+ third_party/tls/mbedtls/include/mbedtls/sha512.h \
+ third_party/tls/mbedtls/include/mbedtls/pk.h \
+ third_party/tls/mbedtls/include/mbedtls/rsa.h \
+ third_party/tls/mbedtls/include/mbedtls/ecdsa.h

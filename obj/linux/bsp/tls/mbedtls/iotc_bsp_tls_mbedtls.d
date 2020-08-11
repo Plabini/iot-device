@@ -1,0 +1,32 @@
+/home/plabini/Documents/iot-device-sdk-embedded-c/obj/linux/bsp/tls/mbedtls/iotc_bsp_tls_mbedtls.o: \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/bsp/tls/mbedtls/iotc_bsp_tls_mbedtls.c \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/memory/iotc_allocator.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/iotc_config.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/libiotc/debug_extensions/memory_limiter/iotc_memory_limiter.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/iotc_error.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/src/bsp/iotc_bsp_debug.h \
+ /home/plabini/Documents/iot-device-sdk-embedded-c/include/bsp/iotc_bsp_tls.h \
+ third_party/tls/mbedtls/include/mbedtls/ctr_drbg.h \
+ third_party/tls/mbedtls/include/mbedtls/aes.h \
+ third_party/tls/mbedtls/include/mbedtls/config.h \
+ third_party/tls/mbedtls/include/mbedtls/check_config.h \
+ third_party/tls/mbedtls/include/mbedtls/entropy.h \
+ third_party/tls/mbedtls/include/mbedtls/sha512.h \
+ third_party/tls/mbedtls/include/mbedtls/error.h \
+ third_party/tls/mbedtls/include/mbedtls/platform.h \
+ third_party/tls/mbedtls/include/mbedtls/platform_time.h \
+ third_party/tls/mbedtls/include/mbedtls/ssl.h \
+ third_party/tls/mbedtls/include/mbedtls/bignum.h \
+ third_party/tls/mbedtls/include/mbedtls/ecp.h \
+ third_party/tls/mbedtls/include/mbedtls/ssl_ciphersuites.h \
+ third_party/tls/mbedtls/include/mbedtls/pk.h \
+ third_party/tls/mbedtls/include/mbedtls/md.h \
+ third_party/tls/mbedtls/include/mbedtls/rsa.h \
+ third_party/tls/mbedtls/include/mbedtls/ecdsa.h \
+ third_party/tls/mbedtls/include/mbedtls/cipher.h \
+ third_party/tls/mbedtls/include/mbedtls/x509_crt.h \
+ third_party/tls/mbedtls/include/mbedtls/x509.h \
+ third_party/tls/mbedtls/include/mbedtls/asn1.h \
+ third_party/tls/mbedtls/include/mbedtls/x509_crl.h \
+ third_party/tls/mbedtls/include/mbedtls/dhm.h \
+ third_party/tls/mbedtls/include/mbedtls/ecdh.h
